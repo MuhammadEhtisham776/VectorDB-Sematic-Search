@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local cache & logs
+.cache/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

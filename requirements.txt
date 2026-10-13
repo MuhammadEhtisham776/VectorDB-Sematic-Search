@@ -1,0 +1,21 @@
+# --- Vector Database ---
+pinecone              
+
+# --- Embeddings & Machine Learning ---
+sentence-transformers              
+transformers         
+groq               
+             
+# --- Frameworks & Orchestration ---
+langchain             
+langchain-pinecone    
+langchain-community 
+llama-index           
+llama-index-vector-stores-pinecone 
+
+# --- Utilities & Data Processing ---
+numpy                 
+pandas               
+pydantic            
+python-dotenv        
+tqdm            
